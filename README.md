@@ -6,4 +6,4 @@ Then you can run:
 
 ### `npm start`
 
-Live https://karwanm.github.io/screen/
+Live https://karwanm.github.io/screen
