@@ -20,7 +20,7 @@ const App = () => {
         <div className="main-container">
           <Routes>
             <Route exact path='/' element={<Home/>} />
-            <Route exact path='/screen' element={Home} />
+            <Route exact path='/screen' element={<Home/>} />
             <Route path='/movies' element={<Movies/>} />
             <Route path='/series' element={<Series/>} />
             <Route path='/about' element={<About/>} />
