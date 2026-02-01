@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { redirect } from "react-router-dom";
 
 const SignIn = () => {
   const [userInfo, setUserInfo] = useState({});

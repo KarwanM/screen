@@ -8,8 +8,8 @@ const Header = () => {
   const [userId, setUserId] = useState("");
   const [searchDown, setSearchDown] = useState(false);
   const [searchData, setSearchData] = useState({});
-  const [result, setResult] = useState({});
-  const [isLoading, setIsLoading] = useState(false);
+//   const [result, setResult] = useState({});
+  const [setIsLoading] = useState(false);
 
   useEffect(() => {
     window.addEventListener("resize", handleWidth);
