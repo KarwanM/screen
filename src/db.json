@@ -4,23 +4,13 @@
       "id": 1,
       "year": 2019,
       "title": "Alita: Battle Angel",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "122 minutes",
       "rate": "7.3",
       "budget": "$150–200 million",
       "grossing": "$405 million",
-      "director": [
-        "Robert Rodriguez"
-      ],
-      "stars": [
-        "Rosa Salazar",
-        "Christoph Waltz",
-        "Jennifer Connelly"
-      ],
+      "director": ["Robert Rodriguez"],
+      "stars": ["Rosa Salazar", "Christoph Waltz", "Jennifer Connelly"],
       "language": "English",
       "brief": "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is.",
       "poster": "https://picfiles.alphacoders.com/228/thumb-1920-228332.jpg",
@@ -34,24 +24,13 @@
       "id": 2,
       "year": 2020,
       "title": "Soul",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Animation", "Adventure", "Comedy"],
       "duration": "100 minutes",
       "rate": "8.1",
       "budget": "$150 million+",
       "grossing": "$71.2 million",
-      "director": [
-        "Pete Docter",
-        "Kemp Powers"
-      ],
-      "stars": [
-        "Jamie Foxx",
-        "Tina Fey",
-        "Graham Norton"
-      ],
+      "director": ["Pete Docter", "Kemp Powers"],
+      "stars": ["Jamie Foxx", "Tina Fey", "Graham Norton"],
       "language": "English",
       "brief": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife. ",
       "poster": "https://picfiles.alphacoders.com/406/thumb-1920-406462.jpg",
@@ -65,23 +44,13 @@
       "id": 3,
       "year": 2020,
       "title": "Wonder Woman 1984",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
       "duration": "151 minutes",
       "rate": "5.4",
       "budget": "$200 million",
       "grossing": "$148.4 million",
-      "director": [
-        "Patty Jenkins"
-      ],
-      "stars": [
-        "Gal Gadot",
-        "Chris Pine",
-        "Kristen Wiig"
-      ],
+      "director": ["Patty Jenkins"],
+      "stars": ["Gal Gadot", "Chris Pine", "Kristen Wiig"],
       "language": "English",
       "brief": "Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing.",
       "poster": "https://picfiles.alphacoders.com/405/thumb-405837.jpg",
@@ -95,23 +64,13 @@
       "id": 4,
       "year": 2019,
       "title": "1917",
-      "genre": [
-        "Drama",
-        "Thriller",
-        "War"
-      ],
+      "genre": ["Drama", "Thriller", "War"],
       "duration": "99 minutes",
       "rate": "8.3",
       "budget": "$90-$100million+",
       "grossing": "$384.9 million",
-      "director": [
-        "Sam Mendes"
-      ],
-      "stars": [
-        "Dean-Charles Chapman",
-        "George MacKay",
-        "Daniel Mays"
-      ],
+      "director": ["Sam Mendes"],
+      "stars": ["Dean-Charles Chapman", "George MacKay", "Daniel Mays"],
       "language": "English",
       "brief": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
       "poster": "https://picfiles.alphacoders.com/336/thumb-1920-336319.jpg",
@@ -125,22 +84,13 @@
       "id": 5,
       "year": 1994,
       "title": "Forrest Gump",
-      "genre": [
-        "Drama",
-        "Romance"
-      ],
+      "genre": ["Drama", "Romance"],
       "duration": "142 minutes",
       "rate": "8.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Robert Zemeckis"
-      ],
-      "stars": [
-        "Tom Hanks",
-        "Robin Wright",
-        "Gary Sinise"
-      ],
+      "director": ["Robert Zemeckis"],
+      "stars": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
       "language": "English",
       "brief": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
       "poster": "https://picfiles.alphacoders.com/408/thumb-1920-408493.jpg",
@@ -154,23 +104,13 @@
       "id": 6,
       "year": 2013,
       "title": "Gravity",
-      "genre": [
-        "Drama",
-        "Sci-Fi",
-        "Thriller"
-      ],
+      "genre": ["Drama", "Sci-Fi", "Thriller"],
       "duration": "91 minutes",
       "rate": "7.7",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Alfonso Cuarón"
-      ],
-      "stars": [
-        "Sandra Bullock",
-        "George Clooney",
-        "Ed Harris"
-      ],
+      "director": ["Alfonso Cuarón"],
+      "stars": ["Sandra Bullock", "George Clooney", "Ed Harris"],
       "language": "English",
       "brief": "Two astronauts work together to survive after an accident leaves them stranded in space.",
       "poster": "https://picfiles.alphacoders.com/403/thumb-1920-403740.jpg",
@@ -184,24 +124,13 @@
       "id": 7,
       "year": 2019,
       "title": "Frozen 2",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Animation", "Adventure", "Comedy"],
       "duration": "103 minutes",
       "rate": "6.9",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Chris Buck",
-        "Jennifer Lee"
-      ],
-      "stars": [
-        "Kristen Bell",
-        "Idina Menzel",
-        "Josh Gad"
-      ],
+      "director": ["Chris Buck", "Jennifer Lee"],
+      "stars": ["Kristen Bell", "Idina Menzel", "Josh Gad"],
       "language": "English",
       "brief": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
       "poster": "https://picfiles.alphacoders.com/325/thumb-1920-325645.jpg",
@@ -215,23 +144,13 @@
       "id": 8,
       "year": 2019,
       "title": "Joker",
-      "genre": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
+      "genre": ["Crime", "Drama", "Thriller"],
       "duration": "122 minutes",
       "rate": "8.5",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Todd Phillips"
-      ],
-      "stars": [
-        "Joaquin Phoenix",
-        "Robert De Niro",
-        "Zazie Beetz"
-      ],
+      "director": ["Todd Phillips"],
+      "stars": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
       "language": "English",
       "brief": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
       "poster": "https://picfiles.alphacoders.com/290/thumb-1920-290404.jpg",
@@ -245,22 +164,13 @@
       "id": 9,
       "year": 1994,
       "title": "Pulp Fiction",
-      "genre": [
-        "Crime",
-        "Drama"
-      ],
+      "genre": ["Crime", "Drama"],
       "duration": "154 minutes",
       "rate": "8.9",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Quentin Tarantino"
-      ],
-      "stars": [
-        "John Travolta",
-        "Uma Thurman",
-        "Samuel L. Jackson "
-      ],
+      "director": ["Quentin Tarantino"],
+      "stars": ["John Travolta", "Uma Thurman", "Samuel L. Jackson "],
       "language": "English",
       "brief": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
       "poster": "https://picfiles.alphacoders.com/346/thumb-1920-346793.jpg",
@@ -274,23 +184,13 @@
       "id": 10,
       "year": 2019,
       "title": "How to Train Your Dragon: The Hidden World",
-      "genre": [
-        "Animation",
-        "Action",
-        "Adventure"
-      ],
+      "genre": ["Animation", "Action", "Adventure"],
       "duration": "104 minutes",
       "rate": "7.5",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Dean DeBlois"
-      ],
-      "stars": [
-        "Jay Baruchel",
-        "America Ferrera",
-        "F. Murray Abraham"
-      ],
+      "director": ["Dean DeBlois"],
+      "stars": ["Jay Baruchel", "America Ferrera", "F. Murray Abraham"],
       "language": "English",
       "brief": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
       "poster": "https://picfiles.alphacoders.com/194/thumb-1920-194985.jpg",
@@ -304,23 +204,13 @@
       "id": 11,
       "year": 2018,
       "title": "Deadpool 2",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Action", "Adventure", "Comedy"],
       "duration": "99 minutes",
       "rate": "7.7",
       "budget": "",
       "grossing": "",
-      "director": [
-        "David Leitch"
-      ],
-      "stars": [
-        "Ryan Reynolds",
-        "Josh Brolin",
-        "Morena Baccarin"
-      ],
+      "director": ["David Leitch"],
+      "stars": ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin"],
       "language": "English",
       "brief": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
       "poster": "https://picfiles.alphacoders.com/190/thumb-1920-190433.jpg",
@@ -334,22 +224,13 @@
       "id": 12,
       "year": 1997,
       "title": "Titanic",
-      "genre": [
-        "Drama",
-        "Romance"
-      ],
+      "genre": ["Drama", "Romance"],
       "duration": "194 minutes",
       "rate": "7.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "James Cameron"
-      ],
-      "stars": [
-        "Leonardo DiCaprio",
-        "Kate Winslet",
-        "Billy Zane"
-      ],
+      "director": ["James Cameron"],
+      "stars": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
       "language": "English",
       "brief": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
       "poster": "https://picfiles.alphacoders.com/140/thumb-1920-140036.jpg",
@@ -363,24 +244,13 @@
       "id": 13,
       "year": 2014,
       "title": "Big Hero 6",
-      "genre": [
-        "Animation",
-        "Action",
-        "Adventure"
-      ],
+      "genre": ["Animation", "Action", "Adventure"],
       "duration": "102 minutes",
       "rate": "7.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Don Hall",
-        "Chris Williams"
-      ],
-      "stars": [
-        "Ryan Potter",
-        "Scott Adsit",
-        "Jamie Chung"
-      ],
+      "director": ["Don Hall", "Chris Williams"],
+      "stars": ["Ryan Potter", "Scott Adsit", "Jamie Chung"],
       "language": "English",
       "brief": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
       "poster": "https://picfiles.alphacoders.com/756/75695.jpg",
@@ -394,23 +264,13 @@
       "id": 14,
       "year": 2018,
       "title": "Aquaman",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
       "duration": "143 minutes",
       "rate": "6.9",
       "budget": "",
       "grossing": "",
-      "director": [
-        "James Wan"
-      ],
-      "stars": [
-        "Jason Momoa",
-        "Amber Heard",
-        "Willem Dafoe"
-      ],
+      "director": ["James Wan"],
+      "stars": ["Jason Momoa", "Amber Heard", "Willem Dafoe"],
       "language": "English",
       "brief": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
       "poster": "https://picfiles.alphacoders.com/225/225730.jpg",
@@ -424,23 +284,13 @@
       "id": 15,
       "year": 2018,
       "title": "Black Panther",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "134 minutes",
       "rate": "7.3",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Ryan Coogler"
-      ],
-      "stars": [
-        "Chadwick Boseman",
-        "Michael B. Jordan",
-        "Lupita Nyong'o"
-      ],
+      "director": ["Ryan Coogler"],
+      "stars": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
       "language": "English",
       "brief": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
       "poster": "https://picfiles.alphacoders.com/152/152386.jpg",
@@ -454,23 +304,13 @@
       "id": 16,
       "year": 2017,
       "title": "Dunkirk",
-      "genre": [
-        "Action",
-        "Drama",
-        "History"
-      ],
+      "genre": ["Action", "Drama", "History"],
       "duration": "106 minutes",
       "rate": "7.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "stars": [
-        "Fionn Whitehead",
-        "Barry Keoghan",
-        "Mark Rylance"
-      ],
+      "director": ["Christopher Nolan"],
+      "stars": ["Fionn Whitehead", "Barry Keoghan", "Mark Rylance"],
       "language": "English",
       "brief": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
       "poster": "https://picfiles.alphacoders.com/151/151478.jpg",
@@ -484,24 +324,13 @@
       "id": 17,
       "year": 2017,
       "title": "Coco",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Family"
-      ],
+      "genre": ["Animation", "Adventure", "Family"],
       "duration": "105 minutes",
       "rate": "8.4",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Lee Unkrich",
-        "Adrian Molina"
-      ],
-      "stars": [
-        "Anthony Gonzalez",
-        "Gael García Bernal",
-        "Benjamin Bratt"
-      ],
+      "director": ["Lee Unkrich", "Adrian Molina"],
+      "stars": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"],
       "language": "English",
       "brief": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
       "poster": "https://picfiles.alphacoders.com/393/393364.jpg",
@@ -515,23 +344,13 @@
       "id": 18,
       "year": 2019,
       "title": "X-Men: Dark Phoenix",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "113 minutes",
       "rate": "5.7",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Simon Kinberg"
-      ],
-      "stars": [
-        "James McAvoy",
-        "Michael Fassbender",
-        "Jennifer Lawrence"
-      ],
+      "director": ["Simon Kinberg"],
+      "stars": ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence"],
       "language": "English",
       "brief": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
       "poster": "https://picfiles.alphacoders.com/228/228335.jpg",
@@ -545,24 +364,13 @@
       "id": 19,
       "year": 2019,
       "title": "Avengers: Endgame",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
+      "genre": ["Action", "Adventure", "Drama"],
       "duration": "181 minutes",
       "rate": "8.4",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Anthony Russo",
-        "Joe Russo"
-      ],
-      "stars": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Mark Ruffalo"
-      ],
+      "director": ["Anthony Russo", "Joe Russo"],
+      "stars": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
       "language": "English",
       "brief": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
       "poster": "https://picfiles.alphacoders.com/224/224328.jpg",
@@ -576,23 +384,13 @@
       "id": 20,
       "year": 2014,
       "title": "Interstellar",
-      "genre": [
-        "Adventure",
-        "Drama",
-        "Sci-Fi"
-      ],
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
       "duration": "169 minutes",
       "rate": "8.6",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "stars": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Jessica Chastain"
-      ],
+      "director": ["Christopher Nolan"],
+      "stars": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
       "language": "English",
       "brief": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "poster": "https://picfiles.alphacoders.com/147/147461.jpg",
@@ -606,21 +404,13 @@
       "id": 21,
       "year": 2017,
       "title": "It",
-      "genre": [
-        "Horror"
-      ],
+      "genre": ["Horror"],
       "duration": "135 minutes",
       "rate": "7.3",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Andy Muschietti"
-      ],
-      "stars": [
-        "Bill Skarsgård",
-        "Jaeden Martell",
-        "Finn Wolfhard"
-      ],
+      "director": ["Andy Muschietti"],
+      "stars": ["Bill Skarsgård", "Jaeden Martell", "Finn Wolfhard"],
       "language": "English",
       "brief": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
       "poster": "https://picfiles.alphacoders.com/153/153457.jpg",
@@ -634,23 +424,13 @@
       "id": 22,
       "year": 2018,
       "title": "Venom",
-      "genre": [
-        "Action,",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action,", "Adventure", "Sci-Fi"],
       "duration": "112 minutes",
       "rate": "6.7",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Ruben Fleischer"
-      ],
-      "stars": [
-        "Tom Hardy",
-        "Michelle Williams",
-        "Riz Ahmed"
-      ],
+      "director": ["Ruben Fleischer"],
+      "stars": ["Tom Hardy", "Michelle Williams", "Riz Ahmed"],
       "language": "English",
       "brief": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
       "poster": "https://picfiles.alphacoders.com/210/210921.jpg",
@@ -664,23 +444,13 @@
       "id": 23,
       "year": 2019,
       "title": "Spider-Man: Far From Home",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "129 minutes",
       "rate": "7.5",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Jon Watts"
-      ],
-      "stars": [
-        "Tom Holland",
-        "Samuel L. Jackson",
-        "Jake Gyllenhaal"
-      ],
+      "director": ["Jon Watts"],
+      "stars": ["Tom Holland", "Samuel L. Jackson", "Jake Gyllenhaal"],
       "language": "English",
       "brief": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
       "poster": "https://picfiles.alphacoders.com/228/228466.jpg",
@@ -694,24 +464,13 @@
       "id": 24,
       "year": 2009,
       "title": "Up",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Animation", "Adventure", "Comedy"],
       "duration": "96 minutes",
       "rate": "8.2",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Pete Docter",
-        "Bob Peterson"
-      ],
-      "stars": [
-        "Edward Asner",
-        "Jordan Nagai",
-        "John Ratzenberger"
-      ],
+      "director": ["Pete Docter", "Bob Peterson"],
+      "stars": ["Edward Asner", "Jordan Nagai", "John Ratzenberger"],
       "language": "English",
       "brief": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
       "poster": "https://picfiles.alphacoders.com/860/86028.jpg",
@@ -725,23 +484,13 @@
       "id": 25,
       "year": 1999,
       "title": "The Matrix",
-      "genre": [
-        "Action",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Sci-Fi"],
       "duration": "136 minutes",
       "rate": "8.9",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Lana Wachowski",
-        "Lilly Wachowski"
-      ],
-      "stars": [
-        "Keanu Reeves",
-        "Laurence Fishburne",
-        "Carrie-Anne Moss"
-      ],
+      "director": ["Lana Wachowski", "Lilly Wachowski"],
+      "stars": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
       "language": "English",
       "brief": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
       "poster": "https://picfiles.alphacoders.com/354/354955.jpg",
@@ -755,23 +504,13 @@
       "id": 26,
       "year": 2018,
       "title": "Ant-Man and the Wasp",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Action", "Adventure", "Comedy"],
       "duration": "118 minutes",
       "rate": "7.1",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Peyton Reed"
-      ],
-      "stars": [
-        "Paul Rudd",
-        "Evangeline Lilly",
-        "Michael Peña"
-      ],
+      "director": ["Peyton Reed"],
+      "stars": ["Paul Rudd", "Evangeline Lilly", "Michael Peña"],
       "language": "English",
       "brief": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
       "poster": "https://picfiles.alphacoders.com/198/198619.jpg",
@@ -785,23 +524,13 @@
       "id": 27,
       "year": 2017,
       "title": "Blade Runner 2049",
-      "genre": [
-        "Action",
-        "Drama",
-        "Mystery"
-      ],
+      "genre": ["Action", "Drama", "Mystery"],
       "duration": "164 minutes",
       "rate": "8.0",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Denis Villeneuve"
-      ],
-      "stars": [
-        "Harrison Ford",
-        "Ryan Gosling",
-        "Ana de Armas"
-      ],
+      "director": ["Denis Villeneuve"],
+      "stars": ["Harrison Ford", "Ryan Gosling", "Ana de Armas"],
       "language": "English",
       "brief": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
       "poster": "https://picfiles.alphacoders.com/161/161961.jpg",
@@ -815,23 +544,13 @@
       "id": 28,
       "year": 2013,
       "title": "Iron Man 3",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "130 minutes",
       "rate": "7.1",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Shane Black"
-      ],
-      "stars": [
-        "Robert Downey Jr.",
-        "Guy Pearce",
-        "Gwyneth Paltrow"
-      ],
+      "director": ["Shane Black"],
+      "stars": ["Robert Downey Jr.", "Guy Pearce", "Gwyneth Paltrow"],
       "language": "English",
       "brief": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
       "poster": "https://picfiles.alphacoders.com/152/152390.jpg",
@@ -845,25 +564,13 @@
       "id": 29,
       "year": 2017,
       "title": "Despicable Me 3",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Animation", "Adventure", "Comedy"],
       "duration": "89 minutes",
       "rate": "6.3",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Kyle Balda",
-        "Pierre Coffin",
-        "Eric Guillon"
-      ],
-      "stars": [
-        "Steve Carell",
-        "Kristen Wiig",
-        "Trey Parker"
-      ],
+      "director": ["Kyle Balda", "Pierre Coffin", "Eric Guillon"],
+      "stars": ["Steve Carell", "Kristen Wiig", "Trey Parker"],
       "language": "English",
       "brief": "Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist.",
       "poster": "https://picfiles.alphacoders.com/351/thumb-1920-351522.jpg",
@@ -877,23 +584,13 @@
       "id": 30,
       "year": 2010,
       "title": "Inception",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "148 minutes",
       "rate": "8.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "stars": [
-        "Leonardo DiCaprio",
-        "Joseph Gordon-Levitt",
-        "Elliot Page"
-      ],
+      "director": ["Christopher Nolan"],
+      "stars": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
       "language": "English",
       "brief": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
       "poster": "https://picfiles.alphacoders.com/154/thumb-1920-154664.jpg",
@@ -907,23 +604,13 @@
       "id": 31,
       "year": 2016,
       "title": "Doctor Strange",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
       "duration": "115 minutes",
       "rate": "7.5",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Scott Derrickson"
-      ],
-      "stars": [
-        "Benedict Cumberbatch",
-        "Chiwetel Ejiofor",
-        "Rachel McAdams"
-      ],
+      "director": ["Scott Derrickson"],
+      "stars": ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams"],
       "language": "English",
       "brief": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
       "poster": "https://picfiles.alphacoders.com/205/20593.jpg",
@@ -937,23 +624,13 @@
       "id": 32,
       "year": 2017,
       "title": "Justice League",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
       "duration": "120 minutes",
       "rate": "6.3",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Zack Snyder"
-      ],
-      "stars": [
-        "Ben Affleck",
-        "Gal Gadot",
-        "Jason Momoa"
-      ],
+      "director": ["Zack Snyder"],
+      "stars": ["Ben Affleck", "Gal Gadot", "Jason Momoa"],
       "language": "English",
       "brief": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his new-found ally, Diana Prince, to face an even greater enemy.",
       "poster": "https://picfiles.alphacoders.com/104/104293.jpg",
@@ -967,23 +644,13 @@
       "id": 33,
       "year": 2015,
       "title": "Mad Max: Fury Road",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "120 minutes",
       "rate": "8.1",
       "budget": "",
       "grossing": "",
-      "director": [
-        "George Miller"
-      ],
-      "stars": [
-        "Tom Hardy",
-        "Charlize Theron",
-        "Nicholas Hoult"
-      ],
+      "director": ["George Miller"],
+      "stars": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
       "language": "English",
       "brief": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
       "poster": "https://picfiles.alphacoders.com/374/374530.jpg",
@@ -997,23 +664,13 @@
       "id": 34,
       "year": 2001,
       "title": "Spirited Away",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Family"
-      ],
+      "genre": ["Animation", "Adventure", "Family"],
       "duration": "125 minutes",
       "rate": "8.6",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Hayao Miyazaki"
-      ],
-      "stars": [
-        "Daveigh Chase",
-        "Suzanne Pleshette",
-        "Miyu Irino"
-      ],
+      "director": ["Hayao Miyazaki"],
+      "stars": ["Daveigh Chase", "Suzanne Pleshette", "Miyu Irino"],
       "language": "English",
       "brief": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
       "poster": "https://picfiles.alphacoders.com/364/364449.jpg",
@@ -1027,23 +684,13 @@
       "id": 35,
       "year": 2008,
       "title": "The Dark Knight",
-      "genre": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
+      "genre": ["Action", "Crime", "Drama"],
       "duration": "152 minutes",
       "rate": "9.0",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Christopher Nolan"
-      ],
-      "stars": [
-        "Christian Bale",
-        "Heath Ledger",
-        "Aaron Eckhart"
-      ],
+      "director": ["Christopher Nolan"],
+      "stars": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
       "language": "English",
       "brief": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
       "poster": "https://picfiles.alphacoders.com/127/127248.jpg",
@@ -1057,23 +704,13 @@
       "id": 36,
       "year": 2017,
       "title": "Thor: Ragnarok",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Action", "Adventure", "Comedy"],
       "duration": "130 minutes",
       "rate": "7.9",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Taika Waititi"
-      ],
-      "stars": [
-        "Chris Hemsworth",
-        "Tom Hiddleston",
-        "Cate Blanchett"
-      ],
+      "director": ["Taika Waititi"],
+      "stars": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett"],
       "language": "English",
       "brief": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
       "poster": "https://picfiles.alphacoders.com/178/178977.jpg",
@@ -1087,23 +724,13 @@
       "id": 37,
       "year": 2016,
       "title": "Your Name",
-      "genre": [
-        "Animation",
-        "Drama",
-        "Fantasy"
-      ],
+      "genre": ["Animation", "Drama", "Fantasy"],
       "duration": "106 minutes",
       "rate": "8.4",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Makoto Shinkai"
-      ],
-      "stars": [
-        "Ryûnosuke Kamiki",
-        "Mone Kamishiraishi",
-        "Ryô Narita"
-      ],
+      "director": ["Makoto Shinkai"],
+      "stars": ["Ryûnosuke Kamiki", "Mone Kamishiraishi", "Ryô Narita"],
       "language": "English",
       "brief": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
       "poster": "https://picfiles.alphacoders.com/356/356628.jpg",
@@ -1117,22 +744,13 @@
       "id": 38,
       "year": 2016,
       "title": "Jason Bourne",
-      "genre": [
-        "Action",
-        "Thriller"
-      ],
+      "genre": ["Action", "Thriller"],
       "duration": "123 minutes",
       "rate": "6.6",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Paul Greengrass"
-      ],
-      "stars": [
-        "Matt Damon",
-        "Tommy Lee Jones",
-        "Alicia Vikander"
-      ],
+      "director": ["Paul Greengrass"],
+      "stars": ["Matt Damon", "Tommy Lee Jones", "Alicia Vikander"],
       "language": "English",
       "brief": "The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.",
       "poster": "https://picfiles.alphacoders.com/352/thumb-1920-352028.jpg",
@@ -1146,23 +764,13 @@
       "id": 39,
       "year": 2018,
       "title": "Mission: Impossible - Fallout",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Thriller"
-      ],
+      "genre": ["Action", "Adventure", "Thriller"],
       "duration": "147 minutes",
       "rate": "7.7",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Christopher McQuarrie"
-      ],
-      "stars": [
-        "Tom Cruise",
-        "Henry Cavill",
-        "Ving Rhames"
-      ],
+      "director": ["Christopher McQuarrie"],
+      "stars": ["Tom Cruise", "Henry Cavill", "Ving Rhames"],
       "language": "English",
       "brief": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
       "poster": "https://picfiles.alphacoders.com/200/200999.jpg",
@@ -1176,22 +784,13 @@
       "id": 40,
       "year": 2006,
       "title": "300",
-      "genre": [
-        "Action",
-        "Drama"
-      ],
+      "genre": ["Action", "Drama"],
       "duration": "117 minutes",
       "rate": "7.6",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Zack Snyder"
-      ],
-      "stars": [
-        "Gerard Butler",
-        "Lena Headey",
-        "David Wenham"
-      ],
+      "director": ["Zack Snyder"],
+      "stars": ["Gerard Butler", "Lena Headey", "David Wenham"],
       "language": "English",
       "brief": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
       "poster": "https://picfiles.alphacoders.com/350/350081.jpg",
@@ -1205,23 +804,13 @@
       "id": 41,
       "year": 2011,
       "title": "Source Code",
-      "genre": [
-        "Action",
-        "Drama",
-        "Mystery"
-      ],
+      "genre": ["Action", "Drama", "Mystery"],
       "duration": "99 minutes",
       "rate": "7.5",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Duncan Jones"
-      ],
-      "stars": [
-        "Jake Gyllenhaal",
-        "Michelle Monaghan",
-        "Vera Farmiga"
-      ],
+      "director": ["Duncan Jones"],
+      "stars": ["Jake Gyllenhaal", "Michelle Monaghan", "Vera Farmiga"],
       "language": "English",
       "brief": "A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes.",
       "poster": "https://picfiles.alphacoders.com/351/351591.jpg",
@@ -1235,23 +824,13 @@
       "id": 42,
       "year": 2011,
       "title": "In Time",
-      "genre": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
+      "genre": ["Action", "Sci-Fi", "Thriller"],
       "duration": "109 minutes",
       "rate": "6.7",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Andrew Niccol"
-      ],
-      "stars": [
-        "Justin Timberlake",
-        "Amanda Seyfried",
-        "Cillian Murphy"
-      ],
+      "director": ["Andrew Niccol"],
+      "stars": ["Justin Timberlake", "Amanda Seyfried", "Cillian Murphy"],
       "language": "English",
       "brief": "In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.",
       "poster": "https://picfiles.alphacoders.com/357/357651.jpg",
@@ -1265,23 +844,13 @@
       "id": 43,
       "year": 2017,
       "title": "Transformers: The Last Knight",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "154 minutes",
       "rate": "5.2",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Michael Bay"
-      ],
-      "stars": [
-        " Rosa Salazar",
-        "Christoph Waltz",
-        "Jennifer Connelly"
-      ],
+      "director": ["Michael Bay"],
+      "stars": [" Rosa Salazar", "Christoph Waltz", "Jennifer Connelly"],
       "language": "English",
       "brief": "Mark Wahlberg, Anthony Hopkins, Josh Duhamel",
       "poster": "https://picfiles.alphacoders.com/148/148650.jpg",
@@ -1295,22 +864,13 @@
       "id": 44,
       "year": 2016,
       "title": "Jack Reacher: Never Go Back",
-      "genre": [
-        "Action",
-        "Thriller"
-      ],
+      "genre": ["Action", "Thriller"],
       "duration": "118 minutes",
       "rate": "6.1",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Edward Zwick"
-      ],
-      "stars": [
-        "Tom Cruise",
-        "Cobie Smulders",
-        "Aldis Hodge"
-      ],
+      "director": ["Edward Zwick"],
+      "stars": ["Tom Cruise", "Cobie Smulders", "Aldis Hodge"],
       "language": "English",
       "brief": "Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name while on the run as a fugitive from the law.",
       "poster": "https://picfiles.alphacoders.com/102/102237.jpg",
@@ -1324,23 +884,13 @@
       "id": 45,
       "year": 2007,
       "title": "I Am Legend",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
+      "genre": ["Action", "Adventure", "Drama"],
       "duration": "101 minutes",
       "rate": "7.2",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Francis Lawrence"
-      ],
-      "stars": [
-        "Will Smith",
-        "Alice Braga",
-        "Charlie Tahan"
-      ],
+      "director": ["Francis Lawrence"],
+      "stars": ["Will Smith", "Alice Braga", "Charlie Tahan"],
       "language": "English",
       "brief": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
       "poster": "https://picfiles.alphacoders.com/354/354759.jpg",
@@ -1354,23 +904,13 @@
       "id": 46,
       "year": 2019,
       "title": "Toy Story 4",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Animation", "Adventure", "Comedy"],
       "duration": "100 minutes",
       "rate": "7.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Josh Cooley"
-      ],
-      "stars": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Annie Potts"
-      ],
+      "director": ["Josh Cooley"],
+      "stars": ["Tom Hanks", "Tim Allen", "Annie Potts"],
       "language": "English",
       "brief": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
       "poster": "https://picfiles.alphacoders.com/253/253220.jpg",
@@ -1384,24 +924,13 @@
       "id": 47,
       "year": 2016,
       "title": "Finding Dory",
-      "genre": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
+      "genre": ["Animation", "Adventure", "Comedy"],
       "duration": "97 minutes",
       "rate": "7.3",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Andrew Stanton",
-        "Angus MacLane"
-      ],
-      "stars": [
-        "Ellen DeGeneres",
-        "Albert Brooks",
-        "Ed O'Neill"
-      ],
+      "director": ["Andrew Stanton", "Angus MacLane"],
+      "stars": ["Ellen DeGeneres", "Albert Brooks", "Ed O'Neill"],
       "language": "English",
       "brief": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way.",
       "poster": "https://picfiles.alphacoders.com/356/356595.jpg",
@@ -1415,23 +944,13 @@
       "id": 48,
       "year": 2014,
       "title": "Lucy",
-      "genre": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
+      "genre": ["Action", "Sci-Fi", "Thriller"],
       "duration": "89 minutes",
       "rate": "6.4",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Luc Besson"
-      ],
-      "stars": [
-        "Scarlett Johansson",
-        "Morgan Freeman",
-        "Choi Min-sik"
-      ],
+      "director": ["Luc Besson"],
+      "stars": ["Scarlett Johansson", "Morgan Freeman", "Choi Min-sik"],
       "language": "English",
       "brief": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
       "poster": "https://picfiles.alphacoders.com/107/107946.jpg",
@@ -1445,24 +964,13 @@
       "id": 49,
       "year": 2019,
       "title": "Captain Marvel",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "123 minutes",
       "rate": "6.9",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Anna Boden",
-        "Ryan Fleck"
-      ],
-      "stars": [
-        "Brie Larson",
-        "Samuel L. Jackson",
-        "Ben Mendelsohn"
-      ],
+      "director": ["Anna Boden", "Ryan Fleck"],
+      "stars": ["Brie Larson", "Samuel L. Jackson", "Ben Mendelsohn"],
       "language": "English",
       "brief": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
       "poster": "https://picfiles.alphacoders.com/232/232761.jpg",
@@ -1476,24 +984,13 @@
       "id": 50,
       "year": 2016,
       "title": "Captain America: Civil War",
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
+      "genre": ["Action", "Adventure", "Sci-Fi"],
       "duration": "147 minutes",
       "rate": "7.8",
       "budget": "",
       "grossing": "",
-      "director": [
-        "Anthony Russo",
-        "Joe Russo"
-      ],
-      "stars": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Scarlett Johansson"
-      ],
+      "director": ["Anthony Russo", "Joe Russo"],
+      "stars": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson"],
       "language": "English",
       "brief": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
       "poster": "https://picfiles.alphacoders.com/127/127250.jpg",
@@ -1509,18 +1006,11 @@
       "id": 1,
       "original_release": 1994,
       "title": "Friends",
-      "genre": [
-        "Comedy",
-        "Romance"
-      ],
+      "genre": ["Comedy", "Romance"],
       "running_time": "22 minutes",
       "rate": "8.9",
       "num_of_seasons": 10,
-      "stars": [
-        " Jennifer Aniston",
-        "Courteney Cox",
-        "Lisa Kudrow"
-      ],
+      "stars": [" Jennifer Aniston", "Courteney Cox", "Lisa Kudrow"],
       "language": "",
       "brief": "",
       "poster": "",
@@ -1532,9 +1022,7 @@
           "id": 1,
           "season_release": 1994,
           "num_of_episodes": 0,
-          "season_director": [
-            ""
-          ],
+          "season_director": [""],
           "season_rate": "",
           "season_stars": [],
           "season_brief": "",
@@ -1546,9 +1034,7 @@
               "episode_title": "",
               "episode_release": 0,
               "episode_running_time": "",
-              "stars": [
-                ""
-              ],
+              "stars": [""],
               "episode_rate": "",
               "episode_brief": "",
               "episode_poster": "",

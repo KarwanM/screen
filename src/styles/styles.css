@@ -584,7 +584,8 @@ footer {
     grid-template-columns: 30% 70%;
     height: 420px;
   }
-  .movie-details .details-wrapper h4, .movie-details .details-wrapper span {
+  .movie-details .details-wrapper h4,
+  .movie-details .details-wrapper span {
     margin: 8px 0;
   }
   .movie-details .details .details-brif {
@@ -595,7 +596,8 @@ footer {
     width: 30%;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 570px;
   }
 
@@ -651,7 +653,8 @@ footer {
     width: 35%;
   }
 
-  .trailer, player {
+  .trailer,
+  player {
     height: 570px;
   }
 
@@ -659,7 +662,8 @@ footer {
     width: 35%;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 500px;
   }
 
@@ -694,7 +698,8 @@ footer {
   .movie-details .details-wrapper {
     grid-template-columns: 20% 80%;
   }
-  .movie-details .details-wrapper h4, .movie-details .details-wrapper span {
+  .movie-details .details-wrapper h4,
+  .movie-details .details-wrapper span {
     font-size: 14px;
   }
   .movie-details .details .details-genre {
@@ -708,11 +713,13 @@ footer {
     min-height: 60px;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 400px;
   }
 
-  .movie-form-wrapper input, .movie-form-wrapper textarea {
+  .movie-form-wrapper input,
+  .movie-form-wrapper textarea {
     margin-left: 1%;
     margin-right: 1%;
   }
@@ -767,7 +774,8 @@ footer {
   .movie-details .details-wrapper {
     grid-template-columns: 20% 80%;
   }
-  .movie-details .details-wrapper h4, .movie-details .details-wrapper span {
+  .movie-details .details-wrapper h4,
+  .movie-details .details-wrapper span {
     font-size: 12px;
     margin: 6px 0;
   }
@@ -796,7 +804,8 @@ footer {
     margin-bottom: 20px;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 340px;
   }
 
@@ -828,7 +837,8 @@ footer {
   .movie-details .details-wrapper {
     grid-template-columns: 20% 80%;
   }
-  .movie-details .details-wrapper h4, .movie-details .details-wrapper span {
+  .movie-details .details-wrapper h4,
+  .movie-details .details-wrapper span {
     font-size: 10px;
     margin: 5px 0;
   }
@@ -847,7 +857,8 @@ footer {
     min-height: 50px;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 280px;
   }
 }
@@ -876,7 +887,8 @@ footer {
   .movie-details .details-wrapper {
     grid-template-columns: 20% 80%;
   }
-  .movie-details .details-wrapper h4, .movie-details .details-wrapper span {
+  .movie-details .details-wrapper h4,
+  .movie-details .details-wrapper span {
     font-size: 12px;
     margin: 6px 0;
   }
@@ -916,7 +928,8 @@ footer {
     width: 100%;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 220px;
   }
 }
@@ -954,7 +967,8 @@ footer {
     width: 200px;
   }
 
-  .trailer, .player {
+  .trailer,
+  .player {
     height: 180px;
   }
 }

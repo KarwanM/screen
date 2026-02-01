@@ -1,9 +1,9 @@
-@use 'variables';
+@use "variables";
 
 footer {
-    text-align: center;
-    margin-top: 50px;
-    padding: 16px 0;
-    margin-bottom: 20px;
-    background-color: variables.$navy-blue;
+  text-align: center;
+  margin-top: 50px;
+  padding: 16px 0;
+  margin-bottom: 20px;
+  background-color: variables.$navy-blue;
 }
